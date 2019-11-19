@@ -1,0 +1,12 @@
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\bin\Debug\Left Right.exe.config
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\bin\Debug\Left Right.exe
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\bin\Debug\Left Right.pdb
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\bin\Debug\Left Right.xml
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left Right.vbprojAssemblyReference.cache
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left_Right.Form1.resources
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left_Right.Resources.resources
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left Right.vbproj.GenerateResource.cache
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left Right.vbproj.CoreCompileInputs.cache
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left Right.exe
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left Right.xml
+D:\Sem 5 (Assignment Dll)\Visual Basic\Left Right\Left Right\obj\Debug\Left Right.pdb
